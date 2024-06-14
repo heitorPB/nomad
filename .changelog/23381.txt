@@ -1,0 +1,3 @@
+```release-note:bug
+consul: Fixed a bug where service registration and Envoy bootstrap would not wait for Cosul ACL tokens to be replicated to the local agent
+```
